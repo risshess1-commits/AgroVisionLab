@@ -1,0 +1,214 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cuc_curv",
+      "text": "",
+      "points": [
+        [
+          3.2959183673469283,
+          170.98299319727892
+        ],
+        [
+          33.22789115646256,
+          205.6768707482993
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          33.22789115646256,
+          160.77891156462584
+        ],
+        [
+          59.758503401360514,
+          204.31632653061223
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          189.01020408163265,
+          117.24149659863943
+        ],
+        [
+          228.46598639455783,
+          241.7312925170068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_curv",
+      "text": "",
+      "points": [
+        [
+          163.1598639455782,
+          239.69047619047618
+        ],
+        [
+          211.45918367346934,
+          362.1394557823129
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "zavaz",
+      "text": "",
+      "points": [
+        [
+          178.80612244897958,
+          345.13265306122446
+        ],
+        [
+          208.73809523809524,
+          407.71768707482994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "zavaz",
+      "text": "",
+      "points": [
+        [
+          201.93537414965982,
+          353.2959183673469
+        ],
+        [
+          233.2278911564626,
+          420.6428571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          209.41836734693874,
+          296.8333333333333
+        ],
+        [
+          276.765306122449,
+          413.84013605442175
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          229.14625850340133,
+          162.81972789115645
+        ],
+        [
+          299.2142857142857,
+          274.38435374149657
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          214.86054421768705,
+          52.61564625850338
+        ],
+        [
+          250.23469387755102,
+          117.24149659863943
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "zavaz",
+      "text": "",
+      "points": [
+        [
+          153.63605442176868,
+          64.18027210884351
+        ],
+        [
+          187.64965986394554,
+          93.43197278911562
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          152.27551020408163,
+          109.07823129251699
+        ],
+        [
+          206.69727891156458,
+          250.57482993197277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cuc_line",
+      "text": "",
+      "points": [
+        [
+          200.57482993197277,
+          87.98979591836732
+        ],
+        [
+          244.11224489795916,
+          145.1326530612245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "cuc.jpg",
+  "imageData": null,
+  "imageHeight": 427,
+  "imageWidth": 427
+}

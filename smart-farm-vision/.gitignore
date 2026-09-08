@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/storage/
+backend/smart_farm.sqlite3
+*.log
+output/
+docs/rendered_vkr/
+docs/rendered_vkr_oformleno/
+.DS_Store
